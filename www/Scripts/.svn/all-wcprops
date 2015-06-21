@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/pupilpod/!svn/ver/19070/Trunk/src/PupilApp/PupilPod/www/Scripts
+END
+PushNotification.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pupilpod/!svn/ver/19070/Trunk/src/PupilApp/PupilPod/www/Scripts/PushNotification.js
+END
+angular_rootprovider.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pupilpod/!svn/ver/19070/Trunk/src/PupilApp/PupilPod/www/Scripts/angular_rootprovider.js
+END
+promise-tracker.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pupilpod/!svn/ver/19070/Trunk/src/PupilApp/PupilPod/www/Scripts/promise-tracker.js
+END
+angular.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pupilpod/!svn/ver/19070/Trunk/src/PupilApp/PupilPod/www/Scripts/angular.min.js
+END
+showErrors.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pupilpod/!svn/ver/19070/Trunk/src/PupilApp/PupilPod/www/Scripts/showErrors.js
+END
+ng-flow-standalone.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pupilpod/!svn/ver/19070/Trunk/src/PupilApp/PupilPod/www/Scripts/ng-flow-standalone.js
+END
+jquery.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pupilpod/!svn/ver/19070/Trunk/src/PupilApp/PupilPod/www/Scripts/jquery.min.js
+END
